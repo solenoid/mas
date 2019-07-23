@@ -9,6 +9,7 @@ A public place to share thoughts.
 - [Machine Learning Must be Interpretable](https://christophm.github.io/interpretable-ml-book/)
 - [Nature and "Invasive" Species](https://www.ecosophia.net/a-conversation-with-nature/)
 - [Metrics vs. Reasons aka Snake and Owl Talk](https://medium.com/what-to-build/is-anything-worth-maximizing-d11e648eb56f)
+- [A bit type heavy, but thought provoking](http://matt.might.net/articles/what-cs-majors-should-know/)
 
 # In Praise of Data over Code
 
