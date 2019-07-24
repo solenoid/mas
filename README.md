@@ -10,6 +10,7 @@ A public place to share thoughts.
 - [Nature and "Invasive" Species](https://www.ecosophia.net/a-conversation-with-nature/)
 - [Metrics vs. Reasons aka Snake and Owl Talk](https://medium.com/what-to-build/is-anything-worth-maximizing-d11e648eb56f)
 - [A bit type heavy, but thought provoking](http://matt.might.net/articles/what-cs-majors-should-know/)
+- [Front of the Frontend Plea](http://bradfrost.com/blog/post/frontend-design-react-and-a-bridge-over-the-great-divide/)
 
 # In Praise of Data over Code
 
