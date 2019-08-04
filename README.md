@@ -11,6 +11,14 @@ A public place to share thoughts.
 - [Metrics vs. Reasons aka Snake and Owl Talk](https://medium.com/what-to-build/is-anything-worth-maximizing-d11e648eb56f)
 - [A bit type heavy, but thought provoking](http://matt.might.net/articles/what-cs-majors-should-know/)
 - [Front of the Frontend Plea](http://bradfrost.com/blog/post/frontend-design-react-and-a-bridge-over-the-great-divide/)
+- [Everything You Should Know About Sound](https://waitbutwhy.com/2016/03/sound.html)
+- [How frontend changed throughout time](https://www.vswong.com/articles/the-evolution-of-frontend-paradigms/)
+
+# Beginner Friendly
+
+- [HTML & CSS](https://internetingishard.com/html-and-css/introduction/)
+- [Clients & Servers](https://www.theodinproject.com/courses/web-development-101/lessons/how-does-the-web-work)
+- [Learn the command line first](https://www.learnenough.com/for-beginners)
 
 # In Praise of Data over Code
 
