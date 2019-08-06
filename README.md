@@ -14,6 +14,13 @@ A public place to share thoughts.
 - [Everything You Should Know About Sound](https://waitbutwhy.com/2016/03/sound.html)
 - [How frontend changed throughout time](https://www.vswong.com/articles/the-evolution-of-frontend-paradigms/)
 
+# Reading on Paper vs. Digital
+
+Ironically or maybe not some digital reading on the topic.
+
+- [Paper from 2013 often cited about Norwegian Students](https://www.researchgate.net/publication/256563189_Reading_linear_texts_on_paper_versus_computer_screen_Effects_on_reading_comprehension)
+- [Specific Publisher's Perspective](https://link.springer.com/article/10.1007/s40692-014-0023-9)
+
 # Visual Design Systems
 
 - [Data Visualization Style Guidelines](https://medium.com/nightingale/style-guidelines-92ebe166addc)
