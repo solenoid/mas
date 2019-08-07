@@ -13,6 +13,10 @@ A public place to share thoughts.
 - [Front of the Frontend Plea](http://bradfrost.com/blog/post/frontend-design-react-and-a-bridge-over-the-great-divide/)
 - [Everything You Should Know About Sound](https://waitbutwhy.com/2016/03/sound.html)
 - [How frontend changed throughout time](https://www.vswong.com/articles/the-evolution-of-frontend-paradigms/)
+- [Long and Good Real User Monitoring Taks circa 2016](https://www.youtube.com/watch?v=yrWLi524YLM)
+- [User timing compression built on resource timing compression code](https://github.com/nicjansma/usertiming-compression.js)
+- [JSURL and mention of Rison.js with obligatory dead link](https://groups.google.com/forum/#!topic/nodejs/ivdZuGCF86Q)
+- [Good Critique of Implementing The Checklist Manifesto in Practice and Challenges to Successful Rollout](https://www.nature.com/news/hospital-checklists-are-meant-to-save-lives-so-why-do-they-often-fail-1.18057)
 
 # Reading on Paper vs. Digital
 
