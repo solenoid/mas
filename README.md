@@ -17,6 +17,7 @@ A public place to share thoughts.
 - [User timing compression built on resource timing compression code](https://github.com/nicjansma/usertiming-compression.js)
 - [JSURL and mention of Rison.js with obligatory dead link](https://groups.google.com/forum/#!topic/nodejs/ivdZuGCF86Q)
 - [Good Critique of Implementing The Checklist Manifesto in Practice and Challenges to Successful Rollout](https://www.nature.com/news/hospital-checklists-are-meant-to-save-lives-so-why-do-they-often-fail-1.18057)
+- [Kierkegaard and Entrepreneurship, Grappling with the Finite and the Infinite](https://amasad.me/kierkegaard)
 
 # Reading on Paper vs. Digital
 
