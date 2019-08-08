@@ -41,3 +41,8 @@ Ironically or maybe not some digital reading on the topic.
 
 - [Quick Article Building the Case for Data Clarity](https://theartofmachinery.com/2019/06/30/data_still_dominates.html)
 - [Literal Book on the Approach from Game Development](http://www.dataorienteddesign.com/dodbook/)
+
+# Mental Models are Complex
+
+- [Users and Understanding Products](https://www.intercom.com/blog/videos/users-understand-new-products/)
+- [Sketch Research to Understand Mental Models](https://www.intercom.com/blog/videos/understanding-your-users-mental-model/)
