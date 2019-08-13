@@ -46,3 +46,12 @@ Ironically or maybe not some digital reading on the topic.
 
 - [Users and Understanding Products](https://www.intercom.com/blog/videos/users-understand-new-products/)
 - [Sketch Research to Understand Mental Models](https://www.intercom.com/blog/videos/understanding-your-users-mental-model/)
+
+# Generative Art
+
+- [Wonderful Starting Place with a Great Gallery and Explanation of Process](https://inconvergent.net)
+
+# Leadership & Organizations
+
+- [Simon Sinek: Why Leaders Eat Last](https://www.youtube.com/watch?v=ReRcHdeUG9Y)
+- [Remote Work from a Manager Perspective](https://getlighthouse.com/blog/didnt-plan-hiring-remote-employees/)
