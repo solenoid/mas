@@ -55,3 +55,10 @@ Ironically or maybe not some digital reading on the topic.
 
 - [Simon Sinek: Why Leaders Eat Last](https://www.youtube.com/watch?v=ReRcHdeUG9Y)
 - [Remote Work from a Manager Perspective](https://getlighthouse.com/blog/didnt-plan-hiring-remote-employees/)
+
+# Video Channels for Math or Programming
+
+- [3Blue1Brown Math](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/videos)
+- [Vihart Hexaflexagon Math](https://www.youtube.com/user/Vihart/videos)
+- [Fun Fun Function Programming](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q/videos)
+- [The Coding Train Programming](https://www.youtube.com/user/shiffman/videos)
