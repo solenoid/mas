@@ -4,6 +4,7 @@ A public place to share thoughts.
 
 # Eclectic
 
+- [Kierkegaard and Entrepreneurship, Grappling with the Finite and the Infinite](https://amasad.me/kierkegaard)
 - [Connection Culture is Good](https://www.smartbrief.com/original/2019/05/americas-loneliness-epidemic-hidden-systemic-risk-organizations)
 - [tl;dr for deep work](https://doist.com/blog/complete-guide-to-deep-work/)
 - [Machine Learning Must be Interpretable](https://christophm.github.io/interpretable-ml-book/)
@@ -17,7 +18,7 @@ A public place to share thoughts.
 - [User timing compression built on resource timing compression code](https://github.com/nicjansma/usertiming-compression.js)
 - [JSURL and mention of Rison.js with obligatory dead link](https://groups.google.com/forum/#!topic/nodejs/ivdZuGCF86Q)
 - [Good Critique of Implementing The Checklist Manifesto in Practice and Challenges to Successful Rollout](https://www.nature.com/news/hospital-checklists-are-meant-to-save-lives-so-why-do-they-often-fail-1.18057)
-- [Kierkegaard and Entrepreneurship, Grappling with the Finite and the Infinite](https://amasad.me/kierkegaard)
+- [Visual Diff and Design Game](https://cantunsee.space/)
 
 # Reading on Paper vs. Digital
 
