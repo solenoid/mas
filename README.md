@@ -11,9 +11,7 @@ A public place to share thoughts.
 - [Nature and "Invasive" Species](https://www.ecosophia.net/a-conversation-with-nature/)
 - [Metrics vs. Reasons aka Snake and Owl Talk](https://medium.com/what-to-build/is-anything-worth-maximizing-d11e648eb56f)
 - [A bit type heavy, but thought provoking](http://matt.might.net/articles/what-cs-majors-should-know/)
-  frontend-design-react-and-a-bridge-over-the-great-divide/)
 - [Everything You Should Know About Sound](https://waitbutwhy.com/2016/03/sound.html)
-  the-evolution-of-frontend-paradigms/)
 - [Long and Good Real User Monitoring Taks circa 2016](https://www.youtube.com/watch?v=yrWLi524YLM)
 - [User timing compression built on resource timing compression code](https://github.com/nicjansma/usertiming-compression.js)
 - [JSURL and mention of Rison.js with obligatory dead link](https://groups.google.com/forum/#!topic/nodejs/ivdZuGCF86Q)
@@ -34,8 +32,8 @@ Ironically or maybe not some digital reading on the topic.
 
 # Frontend Technology
 
-- [Front of the Frontend Plea](http://bradfrost.com/blog/post/
-- [How frontend changed throughout time](https://www.vswong.com/articles/
+- [Front of the Frontend Plea](http://bradfrost.com/blog/post/frontend-design-react-and-a-bridge-over-the-great-divide/)
+- [How frontend changed throughout time](https://www.vswong.com/articles/the-evolution-of-frontend-paradigms/)
 
 # Beginner Friendly
 
