@@ -17,6 +17,7 @@ A public place to share thoughts.
 - [JSURL and mention of Rison.js with obligatory dead link](https://groups.google.com/forum/#!topic/nodejs/ivdZuGCF86Q)
 - [Good Critique of Implementing The Checklist Manifesto in Practice and Challenges to Successful Rollout](https://www.nature.com/news/hospital-checklists-are-meant-to-save-lives-so-why-do-they-often-fail-1.18057)
 - [Visual Diff and Design Game](https://cantunsee.space/)
+- [Obscure Mathematician doing Cellular Automata Before it was Cool](http://nautil.us/issue/74/networks/the-computer-maverick-who-modeled-the-evolution-of-life)
 
 # Reading on Paper vs. Digital
 
@@ -34,6 +35,7 @@ Ironically or maybe not some digital reading on the topic.
 
 - [Front of the Frontend Plea](http://bradfrost.com/blog/post/frontend-design-react-and-a-bridge-over-the-great-divide/)
 - [How frontend changed throughout time](https://www.vswong.com/articles/the-evolution-of-frontend-paradigms/)
+- [Two Decades of Javascript History](https://amontalenti.com/2019/08/10/javascript-the-modern-parts)
 
 # Beginner Friendly
 
@@ -54,6 +56,7 @@ Ironically or maybe not some digital reading on the topic.
 # Generative Art
 
 - [Wonderful Starting Place with a Great Gallery and Explanation of Process](https://inconvergent.net)
+- [Looping GIFs, Perlin / Simplex Noise, and Smoke](https://necessarydisorder.wordpress.com/)
 
 # Leadership & Organizations
 
