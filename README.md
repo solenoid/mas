@@ -25,6 +25,7 @@ Ironically or maybe not some digital reading on the topic.
 
 - [Paper from 2013 often cited about Norwegian Students](https://www.researchgate.net/publication/256563189_Reading_linear_texts_on_paper_versus_computer_screen_Effects_on_reading_comprehension)
 - [Specific Publisher's Perspective](https://link.springer.com/article/10.1007/s40692-014-0023-9)
+- [Good Critique of the Ineffectiveness of Books Generally](https://andymatuschak.org/books/)
 
 # Visual Design Systems
 
