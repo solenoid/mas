@@ -18,6 +18,7 @@ A public place to share thoughts.
 - [Good Critique of Implementing The Checklist Manifesto in Practice and Challenges to Successful Rollout](https://www.nature.com/news/hospital-checklists-are-meant-to-save-lives-so-why-do-they-often-fail-1.18057)
 - [Visual Diff and Design Game](https://cantunsee.space/)
 - [Obscure Mathematician doing Cellular Automata Before it was Cool](http://nautil.us/issue/74/networks/the-computer-maverick-who-modeled-the-evolution-of-life)
+- [Good Design from Functional Environment Constraints](https://ferd.ca/clever-functional-design.html)
 
 # Reading on Paper vs. Digital
 
