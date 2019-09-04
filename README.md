@@ -18,8 +18,6 @@ A public place to share thoughts.
 - [Good Critique of Implementing The Checklist Manifesto in Practice and Challenges to Successful Rollout](https://www.nature.com/news/hospital-checklists-are-meant-to-save-lives-so-why-do-they-often-fail-1.18057)
 - [Visual Diff and Design Game](https://cantunsee.space/)
 - [Obscure Mathematician doing Cellular Automata Before it was Cool](http://nautil.us/issue/74/networks/the-computer-maverick-who-modeled-the-evolution-of-life)
-- [Good Design from Functional Environment Constraints](https://ferd.ca/clever-functional-design.html)
-- [Good Architecture Primer for Tech](https://martinfowler.com/architecture/)
 - [Accessibility and Diversity](https://alistapart.com/article/getting-to-the-heart-of-digital-accessibility/)
 
 # Reading on Paper vs. Digital
@@ -52,20 +50,26 @@ Ironically or maybe not some digital reading on the topic.
 - [Quick Article Building the Case for Data Clarity](https://theartofmachinery.com/2019/06/30/data_still_dominates.html)
 - [Literal Book on the Approach from Game Development](http://www.dataorienteddesign.com/dodbook/)
 
+# System Design and Architecture
+
+- [Multi Part Series on Human Challenges to Software Design](https://medium.com/@kentbeck_7670/software-design-is-human-relationships-part-1-of-3-perspective-1bcd53855557)
+- [Good Design from Functional Environment Constraints](https://ferd.ca/clever-functional-design.html)
+- [Good Architecture Primer for Tech](https://martinfowler.com/architecture/)
+
 # Mental Models are Complex
 
 - [Users and Understanding Products](https://www.intercom.com/blog/videos/users-understand-new-products/)
 - [Sketch Research to Understand Mental Models](https://www.intercom.com/blog/videos/understanding-your-users-mental-model/)
 
-# Generative Art
-
-- [Wonderful Starting Place with a Great Gallery and Explanation of Process](https://inconvergent.net)
-- [Looping GIFs, Perlin / Simplex Noise, and Smoke](https://necessarydisorder.wordpress.com/)
-
 # Leadership & Organizations
 
 - [Simon Sinek: Why Leaders Eat Last](https://www.youtube.com/watch?v=ReRcHdeUG9Y)
 - [Remote Work from a Manager Perspective](https://getlighthouse.com/blog/didnt-plan-hiring-remote-employees/)
+
+# Generative Art
+
+- [Wonderful Starting Place with a Great Gallery and Explanation of Process](https://inconvergent.net)
+- [Looping GIFs, Perlin / Simplex Noise, and Smoke](https://necessarydisorder.wordpress.com/)
 
 # Video Channels for Math or Programming
 
