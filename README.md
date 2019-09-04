@@ -19,6 +19,8 @@ A public place to share thoughts.
 - [Visual Diff and Design Game](https://cantunsee.space/)
 - [Obscure Mathematician doing Cellular Automata Before it was Cool](http://nautil.us/issue/74/networks/the-computer-maverick-who-modeled-the-evolution-of-life)
 - [Good Design from Functional Environment Constraints](https://ferd.ca/clever-functional-design.html)
+- [Good Architecture Primer for Tech](https://martinfowler.com/architecture/)
+- [Accessibility and Diversity](https://alistapart.com/article/getting-to-the-heart-of-digital-accessibility/)
 
 # Reading on Paper vs. Digital
 
