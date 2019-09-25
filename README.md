@@ -20,6 +20,7 @@ A public place to share thoughts.
 - [Obscure Mathematician doing Cellular Automata Before it was Cool](http://nautil.us/issue/74/networks/the-computer-maverick-who-modeled-the-evolution-of-life)
 - [Accessibility and Diversity](https://alistapart.com/article/getting-to-the-heart-of-digital-accessibility/)
 - [Science Based Meaningul and Balanced Living](https://nesslabs.com/best)
+- [Sound Advice on your own Performance Metrics](https://blog.superhuman.com/performance-metrics-for-blazingly-fast-web-apps-ec12efa26bcb)
 
 # Reading on Paper vs. Digital
 
