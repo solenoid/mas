@@ -31,9 +31,11 @@ Ironically or maybe not some digital reading on the topic.
 - [Specific Publisher's Perspective](https://link.springer.com/article/10.1007/s40692-014-0023-9)
 - [Good Critique of the Ineffectiveness of Books Generally](https://andymatuschak.org/books/)
 
-# Thoughts on Thinking and its Tools
+# Thoughts on Thinking and its Tools and the Medium of Thought
 
 - [Transformative Tools for Thought](https://numinous.productions/ttft/)
+  - [Andy Matuschak (one of the authors)](https://andymatuschak.org)
+  - [Michael Nielsen (the other author)](http://cognitivemedium.com/)
 - [Bret Victor Challenging the Effectiveness of our Thinking Tools](http://worrydream.com/)
 
 # Visual Design Systems
