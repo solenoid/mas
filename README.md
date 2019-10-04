@@ -21,6 +21,7 @@ A public place to share thoughts.
 - [Accessibility and Diversity](https://alistapart.com/article/getting-to-the-heart-of-digital-accessibility/)
 - [Science Based Meaningul and Balanced Living](https://nesslabs.com/best)
 - [Sound Advice on your own Performance Metrics](https://blog.superhuman.com/performance-metrics-for-blazingly-fast-web-apps-ec12efa26bcb)
+- [Such Great Posts after Learning Something New](https://jvns.ca)
 
 # Reading on Paper vs. Digital
 
@@ -29,6 +30,11 @@ Ironically or maybe not some digital reading on the topic.
 - [Paper from 2013 often cited about Norwegian Students](https://www.researchgate.net/publication/256563189_Reading_linear_texts_on_paper_versus_computer_screen_Effects_on_reading_comprehension)
 - [Specific Publisher's Perspective](https://link.springer.com/article/10.1007/s40692-014-0023-9)
 - [Good Critique of the Ineffectiveness of Books Generally](https://andymatuschak.org/books/)
+
+# Thoughts on Thinking and its Tools
+
+- [Transformative Tools for Thought](https://numinous.productions/ttft/)
+- [Bret Victor Challenging the Effectiveness of our Thinking Tools](http://worrydream.com/)
 
 # Visual Design Systems
 
