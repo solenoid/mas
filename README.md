@@ -64,6 +64,7 @@ Ironically or maybe not some digital reading on the topic.
 
 # System Design and Architecture
 
+- [List of Habits of Expert Software Designers](https://thereader.mitpress.mit.edu/habits-of-expert-software-designers/)
 - [Multi Part Series on Human Challenges to Software Design](https://medium.com/@kentbeck_7670/software-design-is-human-relationships-part-1-of-3-perspective-1bcd53855557)
 - [Good Design from Functional Environment Constraints](https://ferd.ca/clever-functional-design.html)
 - [Good Architecture Primer for Tech](https://martinfowler.com/architecture/)
