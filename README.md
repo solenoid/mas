@@ -39,6 +39,7 @@ Ironically or maybe not some digital reading on the topic.
   - [Michael Nielsen (the other author)](http://cognitivemedium.com/)
 - [Bret Victor Challenging the Effectiveness of our Thinking Tools](http://worrydream.com/)
 - [Rich Hickey's rant on Hammock Driven Development](https://github.com/matthiasn/talk-transcripts/blob/master/Hickey_Rich/HammockDrivenDev.md)
+- [Focused and Diffuse Thinking](https://fs.blog/2019/10/focused-diffuse-thinking/)
 
 # Visual Design Systems
 
