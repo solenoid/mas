@@ -38,6 +38,7 @@ Ironically or maybe not some digital reading on the topic.
   - [Andy Matuschak (one of the authors)](https://andymatuschak.org)
   - [Michael Nielsen (the other author)](http://cognitivemedium.com/)
 - [Bret Victor Challenging the Effectiveness of our Thinking Tools](http://worrydream.com/)
+- [Classic Chapter on No Silver Bullet from The Mythical Man-Month](http://worrydream.com/refs/Brooks-NoSilverBullet.pdf)
 - [Rich Hickey's rant on Hammock Driven Development](https://github.com/matthiasn/talk-transcripts/blob/master/Hickey_Rich/HammockDrivenDev.md)
 - [Focused and Diffuse Thinking](https://fs.blog/2019/10/focused-diffuse-thinking/)
 
