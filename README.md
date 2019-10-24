@@ -60,6 +60,12 @@ Ironically or maybe not some digital reading on the topic.
 - [Learn the command line first](https://www.learnenough.com/for-beginners)
 - [Good Approachable Overview of what D3 offers](https://wattenberger.com/blog/d3)
 
+# Documentation near Code
+
+- [Patterns for Library Documentation](https://www.sohamkamani.com/blog/how-to-write-good-documentation/)
+- [Different Categories of Documentation](https://www.divio.com/blog/documentation/)
+- [Django Documentation (often mentioned in "how to document" discussions)](https://docs.djangoproject.com/)
+
 # In Praise of Data over Code
 
 - [Quick Article Building the Case for Data Clarity](https://theartofmachinery.com/2019/06/30/data_still_dominates.html)
