@@ -23,6 +23,7 @@ A public place to share thoughts.
 - [Sound Advice on your own Performance Metrics](https://blog.superhuman.com/performance-metrics-for-blazingly-fast-web-apps-ec12efa26bcb)
 - [Such Great Posts after Learning Something New](https://jvns.ca)
 - [Nonviolent Communication](https://www.clearerthinking.org/single-post/2019/03/06/Want-to-improve-your-relationships-Try-Nonviolent-Communication-1)
+- [Data Governance Book Launch](https://chartio.com/blog/cloud-data-management-book-launch/)
 
 # Reading on Paper vs. Digital
 
