@@ -88,6 +88,7 @@ Ironically or maybe not some digital reading on the topic.
 
 - [Simon Sinek: Why Leaders Eat Last](https://www.youtube.com/watch?v=ReRcHdeUG9Y)
 - [Remote Work from a Manager Perspective](https://getlighthouse.com/blog/didnt-plan-hiring-remote-employees/)
+- [A Guide to distributed teams](https://increment.com/teams/a-guide-to-distributed-teams/)
 
 # Generative Art
 
