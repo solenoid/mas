@@ -24,6 +24,7 @@ A public place to share thoughts.
 - [Such Great Posts after Learning Something New](https://jvns.ca)
 - [Nonviolent Communication](https://www.clearerthinking.org/single-post/2019/03/06/Want-to-improve-your-relationships-Try-Nonviolent-Communication-1)
 - [Data Governance Book Launch](https://chartio.com/blog/cloud-data-management-book-launch/)
+- [Why databases use ordered indexes but programming uses hash tables](https://www.evanjones.ca/ordered-vs-unordered-indexes.html)
 
 # Reading on Paper vs. Digital
 
@@ -78,6 +79,7 @@ Ironically or maybe not some digital reading on the topic.
 - [Multi Part Series on Human Challenges to Software Design](https://medium.com/@kentbeck_7670/software-design-is-human-relationships-part-1-of-3-perspective-1bcd53855557)
 - [Good Design from Functional Environment Constraints](https://ferd.ca/clever-functional-design.html)
 - [Good Architecture Primer for Tech](https://martinfowler.com/architecture/)
+- [You MUST Write Good Docs](https://queue.acm.org/detail.cfm?id=3341158)
 
 # Mental Models are Complex
 
