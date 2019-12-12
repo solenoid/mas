@@ -25,6 +25,7 @@ A public place to share thoughts.
 - [Nonviolent Communication](https://www.clearerthinking.org/single-post/2019/03/06/Want-to-improve-your-relationships-Try-Nonviolent-Communication-1)
 - [Data Governance Book Launch](https://chartio.com/blog/cloud-data-management-book-launch/)
 - [Why databases use ordered indexes but programming uses hash tables](https://www.evanjones.ca/ordered-vs-unordered-indexes.html)
+- [Broken Windows Extract from the Pragmatic Programmer](https://pragprog.com/the-pragmatic-programmer/extracts/software-entropy)
 
 # Reading on Paper vs. Digital
 
@@ -67,6 +68,7 @@ Ironically or maybe not some digital reading on the topic.
 - [Patterns for Library Documentation](https://www.sohamkamani.com/blog/how-to-write-good-documentation/)
 - [Different Categories of Documentation](https://www.divio.com/blog/documentation/)
 - [Django Documentation (often mentioned in "how to document" discussions)](https://docs.djangoproject.com/)
+- [OMG: Our Machinery Guidebook](https://ourmachinery.com/files/guidebook.md.html)
 
 # In Praise of Data over Code
 
