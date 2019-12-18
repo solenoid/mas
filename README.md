@@ -26,6 +26,7 @@ A public place to share thoughts.
 - [Data Governance Book Launch](https://chartio.com/blog/cloud-data-management-book-launch/)
 - [Why databases use ordered indexes but programming uses hash tables](https://www.evanjones.ca/ordered-vs-unordered-indexes.html)
 - [Broken Windows Extract from the Pragmatic Programmer](https://pragprog.com/the-pragmatic-programmer/extracts/software-entropy)
+- [How to conquer work paralysis like Ernest Hemingway](https://www.bbc.com/worklife/article/20191205-how-to-conquer-work-paralysis-like-ernest-hemingway)
 
 # Reading on Paper vs. Digital
 
