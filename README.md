@@ -27,6 +27,8 @@ A public place to share thoughts.
 - [Why databases use ordered indexes but programming uses hash tables](https://www.evanjones.ca/ordered-vs-unordered-indexes.html)
 - [Broken Windows Extract from the Pragmatic Programmer](https://pragprog.com/the-pragmatic-programmer/extracts/software-entropy)
 - [How to conquer work paralysis like Ernest Hemingway](https://www.bbc.com/worklife/article/20191205-how-to-conquer-work-paralysis-like-ernest-hemingway)
+- [Lots of Excel Tricks by Joel Spolsky](https://www.youtube.com/watch?v=0nbkaYsR94c)
+- [The Type System of the Future](https://docs.google.com/document/d/1-aLUwnN0XzLbzICnFLWfCLuD4ULYXGcKAoyRAqTuAIY/edit)
 
 # Reading on Paper vs. Digital
 
@@ -45,6 +47,7 @@ Ironically or maybe not some digital reading on the topic.
 - [Classic Chapter on No Silver Bullet from The Mythical Man-Month](http://worrydream.com/refs/Brooks-NoSilverBullet.pdf)
 - [Rich Hickey's rant on Hammock Driven Development](https://github.com/matthiasn/talk-transcripts/blob/master/Hickey_Rich/HammockDrivenDev.md)
 - [Focused and Diffuse Thinking](https://fs.blog/2019/10/focused-diffuse-thinking/)
+- [Thinking Broadly needs Practice and is counter to Focus](https://consciouscompanymedia.com/personal-development/macro-mind-thinking/)
 
 # Visual Design Systems
 
@@ -83,6 +86,7 @@ Ironically or maybe not some digital reading on the topic.
 - [Good Design from Functional Environment Constraints](https://ferd.ca/clever-functional-design.html)
 - [Good Architecture Primer for Tech](https://martinfowler.com/architecture/)
 - [You MUST Write Good Docs](https://queue.acm.org/detail.cfm?id=3341158)
+- [Architectrual (in buildings) Cult of Modernism](https://inference-review.com/article/the-rise-of-the-architectural-cult)
 
 # Mental Models are Complex
 
