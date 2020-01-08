@@ -15,6 +15,7 @@ A public place to share thoughts.
 - [Long and Good Real User Monitoring Taks circa 2016](https://www.youtube.com/watch?v=yrWLi524YLM)
 - [User timing compression built on resource timing compression code](https://github.com/nicjansma/usertiming-compression.js)
 - [JSURL and mention of Rison.js with obligatory dead link](https://groups.google.com/forum/#!topic/nodejs/ivdZuGCF86Q)
+- [JSON Crush yet another JSON in URL Compression Scheme](https://github.com/KilledByAPixel/JSONCrush)
 - [Good Critique of Implementing The Checklist Manifesto in Practice and Challenges to Successful Rollout](https://www.nature.com/news/hospital-checklists-are-meant-to-save-lives-so-why-do-they-often-fail-1.18057)
 - [Visual Diff and Design Game](https://cantunsee.space/)
 - [Obscure Mathematician doing Cellular Automata Before it was Cool](http://nautil.us/issue/74/networks/the-computer-maverick-who-modeled-the-evolution-of-life)
@@ -29,6 +30,7 @@ A public place to share thoughts.
 - [How to conquer work paralysis like Ernest Hemingway](https://www.bbc.com/worklife/article/20191205-how-to-conquer-work-paralysis-like-ernest-hemingway)
 - [Lots of Excel Tricks by Joel Spolsky](https://www.youtube.com/watch?v=0nbkaYsR94c)
 - [The Type System of the Future](https://docs.google.com/document/d/1-aLUwnN0XzLbzICnFLWfCLuD4ULYXGcKAoyRAqTuAIY/edit)
+- [The Plain Text Project](https://plaintextproject.online/tools.html)
 
 # Reading on Paper vs. Digital
 
@@ -53,6 +55,8 @@ Ironically or maybe not some digital reading on the topic.
 
 - [Data Visualization Style Guidelines](https://medium.com/nightingale/style-guidelines-92ebe166addc)
 - [Space is Important](https://medium.com/eightshapes-llc/space-in-design-systems-188bcbae0d62)
+- [Data is Critical to Data Visualization Design Effectiveness](https://medium.com/multiple-views-visualization-research-explained/data-changes-everything-how-data-visualization-design-and-interface-design-are-different-225145804c09)
+- [Design System APIs Literally](https://matthewstrom.com/writing/design-apis/)
 
 # Frontend Technology
 
