@@ -4,7 +4,6 @@ A public place to share thoughts.
 
 # Eclectic
 
-- [Kierkegaard and Entrepreneurship, Grappling with the Finite and the Infinite](https://amasad.me/kierkegaard)
 - [Connection Culture is Good](https://www.smartbrief.com/original/2019/05/americas-loneliness-epidemic-hidden-systemic-risk-organizations)
 - [tl;dr for deep work](https://doist.com/blog/complete-guide-to-deep-work/)
 - [Machine Learning Must be Interpretable](https://christophm.github.io/interpretable-ml-book/)
@@ -48,8 +47,15 @@ Ironically or maybe not some digital reading on the topic.
 - [Bret Victor Challenging the Effectiveness of our Thinking Tools](http://worrydream.com/)
 - [Classic Chapter on No Silver Bullet from The Mythical Man-Month](http://worrydream.com/refs/Brooks-NoSilverBullet.pdf)
 - [Rich Hickey's rant on Hammock Driven Development](https://github.com/matthiasn/talk-transcripts/blob/master/Hickey_Rich/HammockDrivenDev.md)
+
+# Balancing Act
+
+- [Kierkegaard and Entrepreneurship, Grappling with the Finite and the Infinite](https://amasad.me/kierkegaard)
 - [Focused and Diffuse Thinking](https://fs.blog/2019/10/focused-diffuse-thinking/)
 - [Thinking Broadly needs Practice and is counter to Focus](https://consciouscompanymedia.com/personal-development/macro-mind-thinking/)
+- [Software Design is Human Relationships: Part 1 of 3, Perspective](https://medium.com/@kentbeck_7670/software-design-is-human-relationships-part-1-of-3-perspective-1bcd53855557)
+- [Software Design is Human Relationships: Part 2 of 3, Waiters, Changers, and Sufficiency](https://medium.com/@kentbeck_7670/software-design-is-human-relationships-part-2-of-3-waiters-changers-and-sufficiency-4c0bb9a08d23)
+- [Software Design is Human Relationships: Part 3 of 3, Changers & Changers](https://medium.com/@kentbeck_7670/software-design-is-human-relationships-part-3-of-3-changers-changers-20eeac7846e0)
 
 # Visual Design Systems
 
