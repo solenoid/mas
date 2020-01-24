@@ -30,6 +30,7 @@ A public place to share thoughts.
 - [Lots of Excel Tricks by Joel Spolsky](https://www.youtube.com/watch?v=0nbkaYsR94c)
 - [The Type System of the Future](https://docs.google.com/document/d/1-aLUwnN0XzLbzICnFLWfCLuD4ULYXGcKAoyRAqTuAIY/edit)
 - [The Plain Text Project](https://plaintextproject.online/tools.html)
+- [Opening up search is an ethical imperative](https://opensourceconnections.com/blog/2020/01/23/opening-up-search-is-an-ethical-imperative/)
 
 # Reading on Paper vs. Digital
 
