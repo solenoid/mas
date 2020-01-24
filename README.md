@@ -97,7 +97,8 @@ Ironically or maybe not some digital reading on the topic.
 - [Good Design from Functional Environment Constraints](https://ferd.ca/clever-functional-design.html)
 - [Good Architecture Primer for Tech](https://martinfowler.com/architecture/)
 - [You MUST Write Good Docs](https://queue.acm.org/detail.cfm?id=3341158)
-- [Architectrual (in buildings) Cult of Modernism](https://inference-review.com/article/the-rise-of-the-architectural-cult)
+- [Architectural (in buildings) Cult of Modernism](https://inference-review.com/article/the-rise-of-the-architectural-cult)
+- [How can you be so certain? Bjarne Stroustrup](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2019/p1962r0.pdf)
 
 # Mental Models are Complex
 
