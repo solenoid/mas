@@ -31,6 +31,7 @@ A public place to share thoughts.
 - [The Type System of the Future](https://docs.google.com/document/d/1-aLUwnN0XzLbzICnFLWfCLuD4ULYXGcKAoyRAqTuAIY/edit)
 - [The Plain Text Project](https://plaintextproject.online/tools.html)
 - [Opening up search is an ethical imperative](https://opensourceconnections.com/blog/2020/01/23/opening-up-search-is-an-ethical-imperative/)
+- [Oregon Trail Game History](https://www.smithsonianmag.com/innovation/how-you-wound-playing-em-oregon-trailem-computer-class-180959851/)
 
 # Reading on Paper vs. Digital
 
