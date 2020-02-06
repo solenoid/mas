@@ -71,6 +71,7 @@ Ironically or maybe not some digital reading on the topic.
 - [Front of the Frontend Plea](http://bradfrost.com/blog/post/frontend-design-react-and-a-bridge-over-the-great-divide/)
 - [How frontend changed throughout time](https://www.vswong.com/articles/the-evolution-of-frontend-paradigms/)
 - [Two Decades of Javascript History](https://amontalenti.com/2019/08/10/javascript-the-modern-parts)
+- [Long Personal History of CSS](https://eev.ee/blog/2020/02/01/old-css-new-css/)
 
 # Beginner Friendly
 
