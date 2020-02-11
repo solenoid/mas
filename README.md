@@ -32,7 +32,7 @@ A public place to share thoughts.
 - [The Plain Text Project](https://plaintextproject.online/tools.html)
 - [Opening up search is an ethical imperative](https://opensourceconnections.com/blog/2020/01/23/opening-up-search-is-an-ethical-imperative/)
 - [Oregon Trail Game History](https://www.smithsonianmag.com/innovation/how-you-wound-playing-em-oregon-trailem-computer-class-180959851/)
-- [A/B Test Peeking Problem leading to Bayesian A/B Testing and other approaches, aka How Not To Run an A/B Test](https://www.evanmiller.org/how-not-to-run-an-ab-test.html)
+- [Does Visual Studio Rot the Mind?](http://charlespetzold.com/etc/DoesVisualStudioRotTheMind.html)
 
 # Reading on Paper vs. Digital
 
@@ -108,6 +108,11 @@ Ironically or maybe not some digital reading on the topic.
 
 - [Users and Understanding Products](https://www.intercom.com/blog/videos/users-understand-new-products/)
 - [Sketch Research to Understand Mental Models](https://www.intercom.com/blog/videos/understanding-your-users-mental-model/)
+
+# A/B Testing
+
+- [A/B Test Peeking Problem leading to Bayesian A/B Testing and other approaches, aka How Not To Run an A/B Test](https://www.evanmiller.org/how-not-to-run-an-ab-test.html)
+- [Optimizing sample sizes in A/B testing](https://chris-said.io/2020/01/10/optimizing-sample-sizes-in-ab-testing-part-I/)
 
 # Leadership & Organizations
 
