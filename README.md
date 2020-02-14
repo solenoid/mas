@@ -33,6 +33,8 @@ A public place to share thoughts.
 - [Opening up search is an ethical imperative](https://opensourceconnections.com/blog/2020/01/23/opening-up-search-is-an-ethical-imperative/)
 - [Oregon Trail Game History](https://www.smithsonianmag.com/innovation/how-you-wound-playing-em-oregon-trailem-computer-class-180959851/)
 - [Does Visual Studio Rot the Mind?](http://charlespetzold.com/etc/DoesVisualStudioRotTheMind.html)
+- [Why are we so bad at software engineering?](https://www.bitlog.com/2020/02/12/why-are-we-so-bad-at-software-engineering/)
+- [How Big Technical Changes Happen at Slack](https://slack.engineering/how-big-technical-changes-happen-at-slack-f1569d25ee7b)
 
 # Reading on Paper vs. Digital
 
@@ -108,6 +110,7 @@ Ironically or maybe not some digital reading on the topic.
 
 - [Users and Understanding Products](https://www.intercom.com/blog/videos/users-understand-new-products/)
 - [Sketch Research to Understand Mental Models](https://www.intercom.com/blog/videos/understanding-your-users-mental-model/)
+- [An Astronaut’s Guide to Mental Models](https://fs.blog/2020/02/mental-models-in-space/)
 
 # A/B Testing
 
