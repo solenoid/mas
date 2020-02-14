@@ -107,6 +107,11 @@ Ironically or maybe not some digital reading on the topic.
 - [How can you be so certain? Bjarne Stroustrup](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2019/p1962r0.pdf)
 - [Balancing Speed and Compatability in C++](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2020/p1863r1.pdf)
 
+# Testing Code
+
+- [Test Desiderata (Short Article)](https://medium.com/@kentbeck_7670/test-desiderata-94150638a4b3)
+- [Test Desiderata (Video Playlist)](https://www.youtube.com/playlist?list=PLlmVY7qtgT_lkbrk9iZNizp978mVzpBKl)
+
 # Mental Models are Complex
 
 - [Users and Understanding Products](https://www.intercom.com/blog/videos/users-understand-new-products/)
