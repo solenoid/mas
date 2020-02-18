@@ -90,6 +90,7 @@ Ironically or maybe not some digital reading on the topic.
 - [Different Categories of Documentation](https://www.divio.com/blog/documentation/)
 - [Django Documentation (often mentioned in "how to document" discussions)](https://docs.djangoproject.com/)
 - [OMG: Our Machinery Guidebook](https://ourmachinery.com/files/guidebook.md.html)
+- [Key words for use in RFCs to Indicate Requirement Levels aka MUST vs. SHOULD](https://tools.ietf.org/html/rfc2119)
 
 # In Praise of Data over Code
 
