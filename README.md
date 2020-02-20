@@ -130,6 +130,11 @@ Ironically or maybe not some digital reading on the topic.
 - [Remote Work from a Manager Perspective](https://getlighthouse.com/blog/didnt-plan-hiring-remote-employees/)
 - [A Guide to distributed teams](https://increment.com/teams/a-guide-to-distributed-teams/)
 
+# Accessibility
+
+- [Introducing 13 Letters: The Accessibility Podcast](https://www.bemyeyes.com/podcasts/introducing-13-letters-the-accessibility-podcast)
+- [CSS Can Influence Screenreaders](https://blog.benmyers.dev/css-can-influence-screenreaders/)
+
 # Generative Art
 
 - [Wonderful Starting Place with a Great Gallery and Explanation of Process](https://inconvergent.net)
