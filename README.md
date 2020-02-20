@@ -35,6 +35,7 @@ A public place to share thoughts.
 - [Does Visual Studio Rot the Mind?](http://charlespetzold.com/etc/DoesVisualStudioRotTheMind.html)
 - [Why are we so bad at software engineering?](https://www.bitlog.com/2020/02/12/why-are-we-so-bad-at-software-engineering/)
 - [How Big Technical Changes Happen at Slack](https://slack.engineering/how-big-technical-changes-happen-at-slack-f1569d25ee7b)
+- [Why SQLite succeeded as a database](https://changelog.com/podcast/201)
 
 # Reading on Paper vs. Digital
 
