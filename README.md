@@ -36,6 +36,8 @@ A public place to share thoughts.
 - [Why are we so bad at software engineering?](https://www.bitlog.com/2020/02/12/why-are-we-so-bad-at-software-engineering/)
 - [How Big Technical Changes Happen at Slack](https://slack.engineering/how-big-technical-changes-happen-at-slack-f1569d25ee7b)
 - [Why SQLite succeeded as a database](https://changelog.com/podcast/201)
+- [The Horrifically Dystopian World of Software Engineering Interviews](https://www.jarednelsen.dev/posts/The-horrifically-dystopian-world-of-software-engineering-interviews)
+- [Follow Up On Horrific Interviews, What To Do When You Reach Number 1 On Hacker News](https://www.jarednelsen.dev/posts/what-to-do-when-you-reach-number-1-on-hacker-news)
 
 # Reading on Paper vs. Digital
 
@@ -70,6 +72,8 @@ Ironically or maybe not some digital reading on the topic.
 - [Space is Important](https://medium.com/eightshapes-llc/space-in-design-systems-188bcbae0d62)
 - [Data is Critical to Data Visualization Design Effectiveness](https://medium.com/multiple-views-visualization-research-explained/data-changes-everything-how-data-visualization-design-and-interface-design-are-different-225145804c09)
 - [Design System APIs Literally](https://matthewstrom.com/writing/design-apis/)
+- [The Design Graph](https://jxnblk.com/blog/design-graph/)
+- [Design System Primitives in GraphQL](https://github.com/system-ui/designql)
 
 # Frontend Technology
 
@@ -130,6 +134,8 @@ Ironically or maybe not some digital reading on the topic.
 - [Simon Sinek: Why Leaders Eat Last](https://www.youtube.com/watch?v=ReRcHdeUG9Y)
 - [Remote Work from a Manager Perspective](https://getlighthouse.com/blog/didnt-plan-hiring-remote-employees/)
 - [A Guide to distributed teams](https://increment.com/teams/a-guide-to-distributed-teams/)
+- [The Leadership Library for Engineers](https://leadership-library.dev/The-Leadership-Library-for-Engineers-c3a6bf9482a74fffa5b8c0e85ea5014a)
+- [An Engineering Team where Everyone is a Leader](https://blog.pragmaticengineer.com/a-team-where-everyone-is-a-leader/)
 
 # Accessibility
 
