@@ -38,6 +38,7 @@ A public place to share thoughts.
 - [Why SQLite succeeded as a database](https://changelog.com/podcast/201)
 - [The Horrifically Dystopian World of Software Engineering Interviews](https://www.jarednelsen.dev/posts/The-horrifically-dystopian-world-of-software-engineering-interviews)
 - [Follow Up On Horrific Interviews, What To Do When You Reach Number 1 On Hacker News](https://www.jarednelsen.dev/posts/what-to-do-when-you-reach-number-1-on-hacker-news)
+- [Defunctionalisation – an underappreciated tool for writing good software](https://www.gresearch.co.uk/article/defunctionalisation/)
 
 # Reading on Paper vs. Digital
 
