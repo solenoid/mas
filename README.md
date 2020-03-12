@@ -98,6 +98,7 @@ Ironically or maybe not some digital reading on the topic.
 - [Django Documentation (often mentioned in "how to document" discussions)](https://docs.djangoproject.com/)
 - [OMG: Our Machinery Guidebook](https://ourmachinery.com/files/guidebook.md.html)
 - [Key words for use in RFCs to Indicate Requirement Levels aka MUST vs. SHOULD](https://tools.ietf.org/html/rfc2119)
+- [How (some) good corporate engineering blogs are written](https://danluu.com/corp-eng-blogs/)
 
 # In Praise of Data over Code
 
