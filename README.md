@@ -66,6 +66,7 @@ Ironically or maybe not some digital reading on the topic.
 - [Software Design is Human Relationships: Part 1 of 3, Perspective](https://medium.com/@kentbeck_7670/software-design-is-human-relationships-part-1-of-3-perspective-1bcd53855557)
 - [Software Design is Human Relationships: Part 2 of 3, Waiters, Changers, and Sufficiency](https://medium.com/@kentbeck_7670/software-design-is-human-relationships-part-2-of-3-waiters-changers-and-sufficiency-4c0bb9a08d23)
 - [Software Design is Human Relationships: Part 3 of 3, Changers & Changers](https://medium.com/@kentbeck_7670/software-design-is-human-relationships-part-3-of-3-changers-changers-20eeac7846e0)
+- [Chesterton's Fence: A Lesson in Second Order Thinking](https://fs.blog/2020/03/chestertons-fence/)
 
 # Visual Design Systems
 
