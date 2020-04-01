@@ -41,6 +41,7 @@ A public place to share thoughts.
 - [Defunctionalisation – an underappreciated tool for writing good software](https://www.gresearch.co.uk/article/defunctionalisation/)
 - [Lets Use ML for Insights!](https://ehudreiter.com/2020/03/20/lets-use-ml-for-insights/)
 - [Mise en Place Writing, also applies more broadly](https://www.swyx.io/writing/writing-mise-en-place/)
+- [Cognitive Bias in Software Development](http://smyachenkov.com/posts/cognitive-biases-software-development/)
 
 # Reading on Paper vs. Digital
 
