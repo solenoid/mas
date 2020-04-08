@@ -42,6 +42,7 @@ A public place to share thoughts.
 - [Lets Use ML for Insights!](https://ehudreiter.com/2020/03/20/lets-use-ml-for-insights/)
 - [Mise en Place Writing, also applies more broadly](https://www.swyx.io/writing/writing-mise-en-place/)
 - [Cognitive Bias in Software Development](http://smyachenkov.com/posts/cognitive-biases-software-development/)
+- [What is the Web even Designed for?](https://frankchimero.com/writing/the-webs-grain/)
 
 # Reading on Paper vs. Digital
 
