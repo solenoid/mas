@@ -45,6 +45,7 @@ A public place to share thoughts.
 - [What is the Web even Designed for?](https://frankchimero.com/writing/the-webs-grain/)
 - [Diagram Comics](http://eolay.tilda.ws/diagrams/en)
 - [Patterns for Managing Source Code Branches](https://martinfowler.com/articles/branching-patterns.html)
+- [z-index popularity contest](https://psuter.net/2019/07/07/z-index)
 
 # Reading on Paper vs. Digital
 
