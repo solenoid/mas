@@ -43,6 +43,8 @@ A public place to share thoughts.
 - [Mise en Place Writing, also applies more broadly](https://www.swyx.io/writing/writing-mise-en-place/)
 - [Cognitive Bias in Software Development](http://smyachenkov.com/posts/cognitive-biases-software-development/)
 - [What is the Web even Designed for?](https://frankchimero.com/writing/the-webs-grain/)
+- [Diagram Comics](http://eolay.tilda.ws/diagrams/en)
+- [Patterns for Managing Source Code Branches](https://martinfowler.com/articles/branching-patterns.html)
 
 # Reading on Paper vs. Digital
 
@@ -51,6 +53,11 @@ Ironically or maybe not some digital reading on the topic.
 - [Paper from 2013 often cited about Norwegian Students](https://www.researchgate.net/publication/256563189_Reading_linear_texts_on_paper_versus_computer_screen_Effects_on_reading_comprehension)
 - [Specific Publisher's Perspective](https://link.springer.com/article/10.1007/s40692-014-0023-9)
 - [Good Critique of the Ineffectiveness of Books Generally](https://andymatuschak.org/books/)
+
+# Increment Good Reads
+
+- [A crash course in compilers](https://increment.com/programming-languages/crash-course-in-compilers/)
+- [A Guide to distributed teams](https://increment.com/teams/a-guide-to-distributed-teams/)
 
 # Mediums of Thought
 
