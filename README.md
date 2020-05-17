@@ -88,6 +88,7 @@ Ironically or maybe not some digital reading on the topic.
 - [Design System APIs Literally](https://matthewstrom.com/writing/design-apis/)
 - [The Design Graph](https://jxnblk.com/blog/design-graph/)
 - [Design System Primitives in GraphQL](https://github.com/system-ui/designql)
+- [Programming Design Systems](https://programmingdesignsystems.com/)
 
 # Frontend Technology
 
