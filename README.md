@@ -69,6 +69,7 @@ Ironically or maybe not some digital reading on the topic.
 - [Classic Chapter on No Silver Bullet from The Mythical Man-Month](http://worrydream.com/refs/Brooks-NoSilverBullet.pdf)
 - [Rich Hickey's rant on Hammock Driven Development](https://github.com/matthiasn/talk-transcripts/blob/master/Hickey_Rich/HammockDrivenDev.md)
 - [Thought Provoking Personal Knowledge Repository](https://beepb00p.xyz/)
+- [Tools for better thinking](https://untools.co/)
 
 # Balancing Act
 
