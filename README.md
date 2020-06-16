@@ -46,6 +46,7 @@ A public place to share thoughts.
 - [Diagram Comics](http://eolay.tilda.ws/diagrams/en)
 - [Patterns for Managing Source Code Branches](https://martinfowler.com/articles/branching-patterns.html)
 - [z-index popularity contest](https://psuter.net/2019/07/07/z-index)
+- [Understandability in Software Engineering](https://www.infoq.com/articles/understandability-metric-not-tracking/)
 
 # Reading on Paper vs. Digital
 
