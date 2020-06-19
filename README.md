@@ -48,6 +48,7 @@ A public place to share thoughts.
 - [z-index popularity contest](https://psuter.net/2019/07/07/z-index)
 - [Understandability in Software Engineering](https://www.infoq.com/articles/understandability-metric-not-tracking/)
 - [Recent database technology that should be on your radar (part 1)](https://lucperkins.dev/blog/new-db-tech-1/)
+- [Practical Python](https://github.com/dabeaz-course/practical-python)
 
 # Reading on Paper vs. Digital
 
