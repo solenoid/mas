@@ -134,6 +134,7 @@ Ironically or maybe not some digital reading on the topic.
 - [How can you be so certain? Bjarne Stroustrup](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2019/p1962r0.pdf)
 - [Balancing Speed and Compatability in C++](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2020/p1863r1.pdf)
 - [The growth of command line options](https://danluu.com/cli-complexity/)
+- [In Praise of Extensive Design Documentation](http://brooker.co.za/blog/2020/06/23/code.html)
 
 # Testing Code
 
