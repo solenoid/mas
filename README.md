@@ -50,6 +50,10 @@ A public place to share thoughts.
 - [Recent database technology that should be on your radar (part 1)](https://lucperkins.dev/blog/new-db-tech-1/)
 - [Practical Python](https://github.com/dabeaz-course/practical-python)
 
+# Barriers to Equity in Software Engineering
+
+- [Tech Sector Job Interviews Assess Anxiety, Not Software Skills](https://news.ncsu.edu/2020/07/tech-job-interviews-anxiety/)
+
 # Reading on Paper vs. Digital
 
 Ironically or maybe not some digital reading on the topic.
