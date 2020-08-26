@@ -49,6 +49,7 @@ A public place to share thoughts.
 - [Understandability in Software Engineering](https://www.infoq.com/articles/understandability-metric-not-tracking/)
 - [Recent database technology that should be on your radar (part 1)](https://lucperkins.dev/blog/new-db-tech-1/)
 - [Practical Python](https://github.com/dabeaz-course/practical-python)
+- [Keeping CALM: When Distributed Consistency Is Easy in more limited situations than CAP](https://www.devaboone.com/post/vitamin-d-part-1-back-to-basics)
 
 # Barriers to Equity in Software Engineering
 
