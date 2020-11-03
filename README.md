@@ -108,6 +108,7 @@ Ironically or maybe not some digital reading on the topic.
 - [Long Personal History of CSS](https://eev.ee/blog/2020/02/01/old-css-new-css/)
 - [Introduction to D3](https://observablehq.com/@mitvis/introduction-to-d3)
 - [In Defense of Utility-First CSS](https://frontstuff.io/in-defense-of-utility-first-css)
+- [Frontend Developer Resources list](https://github.com/developer-resources/frontend-development)
 
 # Beginner Friendly
 
