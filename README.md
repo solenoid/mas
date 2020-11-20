@@ -55,6 +55,7 @@ A public place to share thoughts.
 # Barriers to Equity in Software Engineering
 
 - [Tech Sector Job Interviews Assess Anxiety, Not Software Skills](https://news.ncsu.edu/2020/07/tech-job-interviews-anxiety/)
+- [Weed-Out Classes are Not Needed and Actively Hostile to Equity](https://www.nytimes.com/2020/11/16/science/weed-out-classes-stem.html)
 
 # Reading on Paper vs. Digital
 
@@ -89,6 +90,8 @@ Ironically or maybe not some digital reading on the topic.
 - [Software Design is Human Relationships: Part 2 of 3, Waiters, Changers, and Sufficiency](https://medium.com/@kentbeck_7670/software-design-is-human-relationships-part-2-of-3-waiters-changers-and-sufficiency-4c0bb9a08d23)
 - [Software Design is Human Relationships: Part 3 of 3, Changers & Changers](https://medium.com/@kentbeck_7670/software-design-is-human-relationships-part-3-of-3-changers-changers-20eeac7846e0)
 - [Chesterton's Fence: A Lesson in Second Order Thinking](https://fs.blog/2020/03/chestertons-fence/)
+- [Burnout](https://www.uni-mainz.de/presse/aktuell/12451_ENG_HTML.php)
+- [Advice both Giving and Taking](https://guzey.com/advice/)
 
 # Visual Design Systems
 
@@ -116,6 +119,10 @@ Ironically or maybe not some digital reading on the topic.
 - [Clients & Servers](https://www.theodinproject.com/courses/web-development-101/lessons/how-does-the-web-work)
 - [Learn the command line first](https://www.learnenough.com/for-beginners)
 - [Good Approachable Overview of what D3 offers](https://wattenberger.com/blog/d3)
+
+# Beginner Unfriendly
+
+- [Git is Harder than it should be](https://changelog.com/posts/git-is-simply-too-hard)
 
 # Documentation near Code
 
