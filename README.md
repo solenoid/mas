@@ -51,6 +51,7 @@ A public place to share thoughts.
 - [Practical Python](https://github.com/dabeaz-course/practical-python)
 - [Keeping CALM: When Distributed Consistency Is Easy in more limited situations than CAP](https://cacm.acm.org/magazines/2020/9/246941-keeping-calm/fulltext)
 - [CRDTs are the future and not OT](https://josephg.com/blog/crdts-are-the-future/)
+- [Dev Fonts](https://devfonts.gafi.dev/)
 
 # Barriers to Equity in Software Engineering
 
