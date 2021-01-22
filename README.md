@@ -120,6 +120,7 @@ Ironically or maybe not some digital reading on the topic.
 - [Clients & Servers](https://www.theodinproject.com/courses/web-development-101/lessons/how-does-the-web-work)
 - [Learn the command line first](https://www.learnenough.com/for-beginners)
 - [Good Approachable Overview of what D3 offers](https://wattenberger.com/blog/d3)
+- [Good Big O Notation Intro](https://thatcomputerscientist.com/big-o-notation-explained-as-easily-as-possible)
 
 # Beginner Unfriendly
 
