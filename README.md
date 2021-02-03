@@ -154,6 +154,7 @@ Ironically or maybe not some digital reading on the topic.
 - [In Praise of Extensive Design Documentation](http://brooker.co.za/blog/2020/06/23/code.html)
 - [An API is a user interface](https://www.arp242.net/api-ux.html)
 - [Write code that is easy to delete, not easy to extend.](https://programmingisterrible.com/post/139222674273/how-to-write-disposable-code-in-large-systems)
+- [7 behaviours to avoid in a software architecture role](https://www.danielwatts.info/post/7-behaviours-to-avoid-software-architect/)
 
 # Testing Code
 
