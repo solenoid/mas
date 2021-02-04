@@ -113,6 +113,7 @@ Ironically or maybe not some digital reading on the topic.
 - [Introduction to D3](https://observablehq.com/@mitvis/introduction-to-d3)
 - [In Defense of Utility-First CSS](https://frontstuff.io/in-defense-of-utility-first-css)
 - [Frontend Developer Resources list](https://github.com/developer-resources/frontend-development)
+- [Uniwidth typefaces for interface design](https://uxdesign.cc/uniwidth-typefaces-for-interface-design-b6e8078dc0f7)
 
 # Beginner Friendly
 
