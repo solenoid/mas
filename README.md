@@ -57,6 +57,7 @@ A public place to share thoughts.
 
 - [Tech Sector Job Interviews Assess Anxiety, Not Software Skills](https://news.ncsu.edu/2020/07/tech-job-interviews-anxiety/)
 - [Weed-Out Classes are Not Needed and Actively Hostile to Equity](https://www.nytimes.com/2020/11/16/science/weed-out-classes-stem.html)
+- [The Bias of 'Professionalism' Standards](https://ssir.org/articles/entry/the_bias_of_professionalism_standards)
 
 # Reading on Paper vs. Digital
 
