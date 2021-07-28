@@ -157,6 +157,7 @@ Ironically or maybe not some digital reading on the topic.
 - [An API is a user interface](https://www.arp242.net/api-ux.html)
 - [Write code that is easy to delete, not easy to extend.](https://programmingisterrible.com/post/139222674273/how-to-write-disposable-code-in-large-systems)
 - [7 behaviours to avoid in a software architecture role](https://www.danielwatts.info/post/7-behaviours-to-avoid-software-architect/)
+- [Better Architecture Diagrams for Agile Teams: actionable tips and lessons.](https://sportebois.medium.com/better-architecture-diagrams-for-agile-teams-actionable-tips-and-lessons-e76627dc4315)
 
 # Testing Code
 
