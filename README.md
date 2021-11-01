@@ -52,6 +52,7 @@ A public place to share thoughts.
 - [Keeping CALM: When Distributed Consistency Is Easy in more limited situations than CAP](https://cacm.acm.org/magazines/2020/9/246941-keeping-calm/fulltext)
 - [CRDTs are the future and not OT](https://josephg.com/blog/crdts-are-the-future/)
 - [Dev Fonts](https://devfonts.gafi.dev/)
+- [New UUID format that is time based](https://datatracker.ietf.org/doc/html/draft-peabody-dispatch-new-uuid-format)
 
 # Barriers to Equity in Software Engineering
 
@@ -158,6 +159,7 @@ Ironically or maybe not some digital reading on the topic.
 - [Write code that is easy to delete, not easy to extend.](https://programmingisterrible.com/post/139222674273/how-to-write-disposable-code-in-large-systems)
 - [7 behaviours to avoid in a software architecture role](https://www.danielwatts.info/post/7-behaviours-to-avoid-software-architect/)
 - [Better Architecture Diagrams for Agile Teams: actionable tips and lessons.](https://sportebois.medium.com/better-architecture-diagrams-for-agile-teams-actionable-tips-and-lessons-e76627dc4315)
+- [Design and Reality](http://wirfs-brock.com/blog/2021/09/13/design-and-reality/)
 
 # Testing Code
 
