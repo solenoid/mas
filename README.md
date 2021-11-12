@@ -129,6 +129,15 @@ Ironically or maybe not some digital reading on the topic.
 
 - [Git is Harder than it should be](https://changelog.com/posts/git-is-simply-too-hard)
 
+# Understanding Databases
+
+- [A terrible schema from a clueless programmer](https://rachelbythebay.com/w/2021/11/06/sql/)
+- [A follow up to the terrible schema, yes there's more](https://rachelbythebay.com/w/2021/11/07/select/)
+- [B-Trees: More Than I Thought I'd Want to Know](https://benjamincongdon.me/blog/2021/08/17/B-Trees-More-Than-I-Thought-Id-Want-to-Know/)
+- [Sharding in database architecture](<https://en.wikipedia.org/wiki/Shard_(database_architecture)>)
+- [Row and Column Major Order, concepts apply to databases too](https://en.wikipedia.org/wiki/Row-_and_column-major_order)
+- [More specifics on Column stores vs. Row stores in databases](https://en.wikipedia.org/wiki/Column-oriented_DBMS)
+
 # Documentation near Code
 
 - [Patterns for Library Documentation](https://www.sohamkamani.com/blog/how-to-write-good-documentation/)
