@@ -137,6 +137,7 @@ Ironically or maybe not some digital reading on the topic.
 - [Sharding in database architecture](<https://en.wikipedia.org/wiki/Shard_(database_architecture)>)
 - [Row and Column Major Order, concepts apply to databases too](https://en.wikipedia.org/wiki/Row-_and_column-major_order)
 - [More specifics on Column stores vs. Row stores in databases](https://en.wikipedia.org/wiki/Column-oriented_DBMS)
+- [Append only benefits, old technique still relevant today](https://softwarebits.substack.com/p/old-pattern-powering-modern-tech)
 
 # Documentation near Code
 
