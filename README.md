@@ -124,6 +124,7 @@ Ironically or maybe not some digital reading on the topic.
 - [Learn the command line first](https://www.learnenough.com/for-beginners)
 - [Good Approachable Overview of what D3 offers](https://wattenberger.com/blog/d3)
 - [Good Big O Notation Intro](https://thatcomputerscientist.com/big-o-notation-explained-as-easily-as-possible)
+- [The Missing Semester of CS Education](https://missing.csail.mit.edu/)
 
 # Beginner Unfriendly
 
@@ -205,6 +206,7 @@ Ironically or maybe not some digital reading on the topic.
 
 - [Wonderful Starting Place with a Great Gallery and Explanation of Process](https://inconvergent.net)
 - [Looping GIFs, Perlin / Simplex Noise, and Smoke](https://necessarydisorder.wordpress.com/)
+- [Chinese Painting Generator Exploration](https://zverok.github.io/blog/2021-12-28-grok-shan-shui.html)
 
 # Video Channels for Math or Programming
 
