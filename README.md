@@ -141,6 +141,11 @@ Ironically or maybe not some digital reading on the topic.
 - [Append only benefits, old technique still relevant today](https://softwarebits.substack.com/p/old-pattern-powering-modern-tech)
 - [Caches and avoiding the Database and warnings on synthetic loads](https://brooker.co.za/blog/2021/08/27/caches.html)
 
+# Query Languages
+
+- [Malloy Query Language](https://github.com/malloydata/malloy)
+- [PRQL for transforming data](https://prql-lang.org/)
+
 # Documentation near Code
 
 - [Patterns for Library Documentation](https://www.sohamkamani.com/blog/how-to-write-good-documentation/)
