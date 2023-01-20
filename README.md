@@ -183,6 +183,12 @@ Ironically or maybe not some digital reading on the topic.
 - [Test Desiderata (Short Article)](https://medium.com/@kentbeck_7670/test-desiderata-94150638a4b3)
 - [Test Desiderata (Video Playlist)](https://www.youtube.com/playlist?list=PLlmVY7qtgT_lkbrk9iZNizp978mVzpBKl)
 
+## Testing Without Mocks
+
+- [Testing Without Mocks: A Pattern Language
+  ](https://www.jamesshore.com/v2/projects/testing-without-mocks/testing-without-mocks)
+- [Reflections on "Testing Without Mocks"](https://mike.zwobble.org/2023/01/reflections-on-testing-without-mocks/)
+
 # Mental Models are Complex
 
 - [Users and Understanding Products](https://www.intercom.com/blog/videos/users-understand-new-products/)
