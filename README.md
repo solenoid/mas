@@ -125,6 +125,7 @@ Ironically or maybe not some digital reading on the topic.
 - [Good Approachable Overview of what D3 offers](https://wattenberger.com/blog/d3)
 - [Good Big O Notation Intro](https://thatcomputerscientist.com/big-o-notation-explained-as-easily-as-possible)
 - [The Missing Semester of CS Education](https://missing.csail.mit.edu/)
+- [List of People delivering good dev/programming content](https://fromdevtodev.com/people-to-follow-to-learn-art-of-teaching-dev)
 
 # Beginner Unfriendly
 
