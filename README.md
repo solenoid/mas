@@ -95,6 +95,9 @@ Ironically or maybe not some digital reading on the topic.
 - [Chesterton's Fence: A Lesson in Second Order Thinking](https://fs.blog/2020/03/chestertons-fence/)
 - [Burnout](https://www.uni-mainz.de/presse/aktuell/12451_ENG_HTML.php)
 - [Advice both Giving and Taking](https://guzey.com/advice/)
+- [Casual Maintenance Intended](https://casuallymaintained.tech/) or [No Maintenance Intended](https://unmaintained.tech/) badges
+- [JavaScript throughout Time](https://www.swyx.io/js-third-age)
+- [How many ways can you slice a URL and name the pieces?](https://tantek.com/2011/238/b1/many-ways-slice-url-name-pieces) from 2011
 
 # Visual Design Systems
 
